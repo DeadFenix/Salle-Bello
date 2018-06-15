@@ -1,2 +1,2 @@
 # Salle-Bello
-VR project of the school
+Proyecto VR del Colegio La Salle Bello

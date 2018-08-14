@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: 40524df4f321f489cb6927758a590ddf
+timeCreated: 1534277440
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: acera
+    100002: Cafeteria
+    100004: cafeteriaPiso
+    100006: columna
+    100008: columna_001
+    100010: edificio
+    100012: //RootNode
+    100014: Entrada
+    100016: entradaMuro
+    100018: escaleras
+    100020: escaleras_001
+    100022: escalerasMuro
+    100024: escalerasMuro_005
+    100026: escalerasPasamanos
+    100028: escalerasPasamanos_001
+    100030: escaleraVentanas
+    100032: Plane_005
+    100034: puerta
+    100036: separadorCarros
+    100038: sueloBaldosa
+    100040: sueloBaldosa_001
+    100042: sueloBaldosa_002
+    100044: sueloBaldosa_003
+    100046: ventanaMarco
+    100048: vidrio
+    100050: viga
+    100052: viga2
+    400000: acera
+    400002: Cafeteria
+    400004: cafeteriaPiso
+    400006: columna
+    400008: columna_001
+    400010: edificio
+    400012: //RootNode
+    400014: Entrada
+    400016: entradaMuro
+    400018: escaleras
+    400020: escaleras_001
+    400022: escalerasMuro
+    400024: escalerasMuro_005
+    400026: escalerasPasamanos
+    400028: escalerasPasamanos_001
+    400030: escaleraVentanas
+    400032: Plane_005
+    400034: puerta
+    400036: separadorCarros
+    400038: sueloBaldosa
+    400040: sueloBaldosa_001
+    400042: sueloBaldosa_002
+    400044: sueloBaldosa_003
+    400046: ventanaMarco
+    400048: vidrio
+    400050: viga
+    400052: viga2
+    2100000: columnaTorus
+    2100002: columna
+    2100004: paredCafeteria
+    2100006: paredLadrillo_001
+    2100008: piso
+    2100010: paredLadrillo
+    2100012: ladrillo_001
+    2100014: ladrillo
+    2100016: paredBaldosa
+    2100018: pisoConcreot
+    2100020: balldosa
+    2100022: piso_003
+    2100024: concreto
+    2100026: pisoBloque
+    2100028: Material_002
+    2100030: pared
+    2100032: pisoEscaleras_001
+    2100034: puerta_001
+    2100036: paredAzul_001
+    2100038: paredAzul
+    2100040: vidrio
+    2100042: pisoEscaleras_002
+    2100044: pisoEscaleras
+    2100046: Material
+    2100048: concreto_001
+    2100050: unnamed
+    2100052: Material_005
+    2100054: Material_006
+    2300000: acera
+    2300002: Cafeteria
+    2300004: cafeteriaPiso
+    2300006: columna
+    2300008: columna_001
+    2300010: edificio
+    2300012: Entrada
+    2300014: entradaMuro
+    2300016: escaleras
+    2300018: escaleras_001
+    2300020: escalerasMuro
+    2300022: escalerasMuro_005
+    2300024: escalerasPasamanos
+    2300026: escalerasPasamanos_001
+    2300028: escaleraVentanas
+    2300030: Plane_005
+    2300032: puerta
+    2300034: separadorCarros
+    2300036: sueloBaldosa
+    2300038: sueloBaldosa_001
+    2300040: sueloBaldosa_002
+    2300042: sueloBaldosa_003
+    2300044: ventanaMarco
+    2300046: vidrio
+    2300048: viga
+    2300050: viga2
+    3300000: acera
+    3300002: Cafeteria
+    3300004: cafeteriaPiso
+    3300006: columna
+    3300008: columna_001
+    3300010: edificio
+    3300012: Entrada
+    3300014: entradaMuro
+    3300016: escaleras
+    3300018: escaleras_001
+    3300020: escalerasMuro
+    3300022: escalerasMuro_005
+    3300024: escalerasPasamanos
+    3300026: escalerasPasamanos_001
+    3300028: escaleraVentanas
+    3300030: Plane_005
+    3300032: puerta
+    3300034: separadorCarros
+    3300036: sueloBaldosa
+    3300038: sueloBaldosa_001
+    3300040: sueloBaldosa_002
+    3300042: sueloBaldosa_003
+    3300044: ventanaMarco
+    3300046: vidrio
+    3300048: viga
+    3300050: viga2
+    4300000: columna
+    4300002: columna_001
+    4300004: Cafeteria
+    4300006: cafeteriaPiso
+    4300008: edificio
+    4300010: Plane_005
+    4300012: sueloBaldosa
+    4300014: sueloBaldosa_001
+    4300016: sueloBaldosa_003
+    4300018: sueloBaldosa_002
+    4300020: Entrada
+    4300022: separadorCarros
+    4300024: acera
+    4300026: entradaMuro
+    4300028: escalerasMuro
+    4300030: puerta
+    4300032: escalerasPasamanos_001
+    4300034: escalerasPasamanos
+    4300036: escaleraVentanas
+    4300038: escaleras
+    4300040: escaleras_001
+    4300042: escalerasMuro_005
+    4300044: viga
+    4300046: viga2
+    4300048: ventanaMarco
+    4300050: vidrio
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

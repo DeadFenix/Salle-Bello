@@ -70,6 +70,18 @@ ModelImporter:
     100124: separadorCarros
     100126: ventanaMarco
     100128: vidrio
+    100130: ventanaMarco1
+    100132: ventanaMarco10
+    100134: ventanaMarco2
+    100136: ventanaMarco3
+    100138: ventanaMarco4
+    100140: ventanaMarco5
+    100142: ventanaMarco6
+    100144: ventanaMarco7
+    100146: ventanaMarco8
+    100148: ventanaMarco9
+    100150: salaTecnologiaMarco
+    100152: salaTecnologiaPuerta
     400000: cafeteria
     400002: Cube
     400004: Cube_003
@@ -135,6 +147,18 @@ ModelImporter:
     400124: separadorCarros
     400126: ventanaMarco
     400128: vidrio
+    400130: ventanaMarco1
+    400132: ventanaMarco10
+    400134: ventanaMarco2
+    400136: ventanaMarco3
+    400138: ventanaMarco4
+    400140: ventanaMarco5
+    400142: ventanaMarco6
+    400144: ventanaMarco7
+    400146: ventanaMarco8
+    400148: ventanaMarco9
+    400150: salaTecnologiaMarco
+    400152: salaTecnologiaPuerta
     2300000: cafeteria
     2300002: Cube
     2300004: Cube_003
@@ -199,6 +223,18 @@ ModelImporter:
     2300122: separadorCarros
     2300124: ventanaMarco
     2300126: vidrio
+    2300128: ventanaMarco1
+    2300130: ventanaMarco10
+    2300132: ventanaMarco2
+    2300134: ventanaMarco3
+    2300136: ventanaMarco4
+    2300138: ventanaMarco5
+    2300140: ventanaMarco6
+    2300142: ventanaMarco7
+    2300144: ventanaMarco8
+    2300146: ventanaMarco9
+    2300148: salaTecnologiaMarco
+    2300150: salaTecnologiaPuerta
     3300000: cafeteria
     3300002: Cube
     3300004: Cube_003
@@ -263,6 +299,18 @@ ModelImporter:
     3300122: separadorCarros
     3300124: ventanaMarco
     3300126: vidrio
+    3300128: ventanaMarco1
+    3300130: ventanaMarco10
+    3300132: ventanaMarco2
+    3300134: ventanaMarco3
+    3300136: ventanaMarco4
+    3300138: ventanaMarco5
+    3300140: ventanaMarco6
+    3300142: ventanaMarco7
+    3300144: ventanaMarco8
+    3300146: ventanaMarco9
+    3300148: salaTecnologiaMarco
+    3300150: salaTecnologiaPuerta
     4300000: entrada
     4300002: entradaMuro
     4300004: Cube_007
@@ -327,6 +375,18 @@ ModelImporter:
     4300122: escalerasMuro_005
     4300124: ventanaMarco
     4300126: vidrio
+    4300128: ventanaMarco9
+    4300130: ventanaMarco10
+    4300132: ventanaMarco5
+    4300134: ventanaMarco6
+    4300136: ventanaMarco8
+    4300138: ventanaMarco7
+    4300140: ventanaMarco3
+    4300142: ventanaMarco4
+    4300144: ventanaMarco2
+    4300146: ventanaMarco1
+    4300148: salaTecnologiaMarco
+    4300150: salaTecnologiaPuerta
     7400000: Default Take
     9500000: //RootNode
   materials:

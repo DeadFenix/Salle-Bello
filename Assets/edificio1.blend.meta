@@ -82,6 +82,20 @@ ModelImporter:
     100148: ventanaMarco9
     100150: salaTecnologiaMarco
     100152: salaTecnologiaPuerta
+    100154: edficioSalaVentanaMarco_001
+    100156: edficioSalaVentanaMarco_002
+    100158: edficioSalaVentanaVidio
+    100160: edficioSalaVentanaVidio_001
+    100162: edficioSalaVentanaVidio_002
+    100164: edificioSalaVentana
+    100166: edificioSalaVentanaRejaBarras
+    100168: edificioSalaVentanaRejaBarras_001
+    100170: edificioSalaVentanasBarras2
+    100172: edificioSalaVentanasBarras2_001
+    100174: salaTecnologiaMarco_001
+    100176: salaTecnologiaMarco_002
+    100178: salaTecnologiaPuerta_001
+    100180: salaTecnologiaPuerta_002
     400000: cafeteria
     400002: Cube
     400004: Cube_003
@@ -159,6 +173,20 @@ ModelImporter:
     400148: ventanaMarco9
     400150: salaTecnologiaMarco
     400152: salaTecnologiaPuerta
+    400154: edficioSalaVentanaMarco_001
+    400156: edficioSalaVentanaMarco_002
+    400158: edficioSalaVentanaVidio
+    400160: edficioSalaVentanaVidio_001
+    400162: edficioSalaVentanaVidio_002
+    400164: edificioSalaVentana
+    400166: edificioSalaVentanaRejaBarras
+    400168: edificioSalaVentanaRejaBarras_001
+    400170: edificioSalaVentanasBarras2
+    400172: edificioSalaVentanasBarras2_001
+    400174: salaTecnologiaMarco_001
+    400176: salaTecnologiaMarco_002
+    400178: salaTecnologiaPuerta_001
+    400180: salaTecnologiaPuerta_002
     2300000: cafeteria
     2300002: Cube
     2300004: Cube_003
@@ -235,6 +263,20 @@ ModelImporter:
     2300146: ventanaMarco9
     2300148: salaTecnologiaMarco
     2300150: salaTecnologiaPuerta
+    2300152: edficioSalaVentanaMarco_001
+    2300154: edficioSalaVentanaMarco_002
+    2300156: edficioSalaVentanaVidio
+    2300158: edficioSalaVentanaVidio_001
+    2300160: edficioSalaVentanaVidio_002
+    2300162: edificioSalaVentana
+    2300164: edificioSalaVentanaRejaBarras
+    2300166: edificioSalaVentanaRejaBarras_001
+    2300168: edificioSalaVentanasBarras2
+    2300170: edificioSalaVentanasBarras2_001
+    2300172: salaTecnologiaMarco_001
+    2300174: salaTecnologiaMarco_002
+    2300176: salaTecnologiaPuerta_001
+    2300178: salaTecnologiaPuerta_002
     3300000: cafeteria
     3300002: Cube
     3300004: Cube_003
@@ -311,6 +353,20 @@ ModelImporter:
     3300146: ventanaMarco9
     3300148: salaTecnologiaMarco
     3300150: salaTecnologiaPuerta
+    3300152: edficioSalaVentanaMarco_001
+    3300154: edficioSalaVentanaMarco_002
+    3300156: edficioSalaVentanaVidio
+    3300158: edficioSalaVentanaVidio_001
+    3300160: edficioSalaVentanaVidio_002
+    3300162: edificioSalaVentana
+    3300164: edificioSalaVentanaRejaBarras
+    3300166: edificioSalaVentanaRejaBarras_001
+    3300168: edificioSalaVentanasBarras2
+    3300170: edificioSalaVentanasBarras2_001
+    3300172: salaTecnologiaMarco_001
+    3300174: salaTecnologiaMarco_002
+    3300176: salaTecnologiaPuerta_001
+    3300178: salaTecnologiaPuerta_002
     4300000: entrada
     4300002: entradaMuro
     4300004: Cube_007
@@ -387,6 +443,20 @@ ModelImporter:
     4300146: ventanaMarco1
     4300148: salaTecnologiaMarco
     4300150: salaTecnologiaPuerta
+    4300152: salaTecnologiaMarco_001
+    4300154: salaTecnologiaMarco_002
+    4300156: salaTecnologiaPuerta_002
+    4300158: salaTecnologiaPuerta_001
+    4300160: edificioSalaVentana
+    4300162: edificioSalaVentanasBarras2
+    4300164: edificioSalaVentanaRejaBarras
+    4300166: edficioSalaVentanaMarco_002
+    4300168: edficioSalaVentanaVidio
+    4300170: edficioSalaVentanaMarco_001
+    4300172: edificioSalaVentanasBarras2_001
+    4300174: edificioSalaVentanaRejaBarras_001
+    4300176: edficioSalaVentanaVidio_002
+    4300178: edficioSalaVentanaVidio_001
     7400000: Default Take
     9500000: //RootNode
   materials:

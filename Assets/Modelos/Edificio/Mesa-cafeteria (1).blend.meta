@@ -58,6 +58,7 @@ ModelImporter:
     2300028: Cube_002
     2300030: Cube_003
     2300032: Cube_004
+    2300034: //RootNode
     3300000: BezierCircle
     3300002: BezierCircle_001
     3300004: BezierCircle_002
@@ -75,6 +76,7 @@ ModelImporter:
     3300028: Cube_002
     3300030: Cube_003
     3300032: Cube_004
+    3300034: //RootNode
     4300000: Cube_004
     4300002: BezierCurve
     4300004: Cube
@@ -92,6 +94,7 @@ ModelImporter:
     4300028: Cube_002
     4300030: BezierCurve_005
     4300032: BezierCurve_004
+    4300034: mesa
     7400000: Default Take
     9500000: //RootNode
   materials:

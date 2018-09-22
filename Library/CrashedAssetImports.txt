@@ -1,0 +1,2 @@
+Assets/Modelos/Plaqueta/PlacaCompleta.blend
+Assets/textures/pisoBaldosa2.jpg

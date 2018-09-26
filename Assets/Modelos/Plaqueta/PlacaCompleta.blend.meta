@@ -244,6 +244,12 @@ ModelImporter:
     100472: vigaT9_002
     100474: vigaT9_003
     100476: vigaT9_004
+    100478: Tarima_001
+    100480: Escalon2_001
+    100482: Cube
+    100484: grada1_001
+    100486: grada1d_001
+    100488: grada1d_002
     400000: Columna1
     400002: Columna10
     400004: Columna2
@@ -483,6 +489,12 @@ ModelImporter:
     400472: vigaT9_002
     400474: vigaT9_003
     400476: vigaT9_004
+    400478: Tarima_001
+    400480: Escalon2_001
+    400482: Cube
+    400484: grada1_001
+    400486: grada1d_001
+    400488: grada1d_002
     2300000: Columna1
     2300002: Columna10
     2300004: Columna2
@@ -721,6 +733,12 @@ ModelImporter:
     2300470: vigaT9_002
     2300472: vigaT9_003
     2300474: vigaT9_004
+    2300476: Tarima_001
+    2300478: Escalon2_001
+    2300480: Cube
+    2300482: grada1_001
+    2300484: grada1d_001
+    2300486: grada1d_002
     3300000: Columna1
     3300002: Columna10
     3300004: Columna2
@@ -959,6 +977,12 @@ ModelImporter:
     3300470: vigaT9_002
     3300472: vigaT9_003
     3300474: vigaT9_004
+    3300476: Tarima_001
+    3300478: Escalon2_001
+    3300480: Cube
+    3300482: grada1_001
+    3300484: grada1d_001
+    3300486: grada1d_002
     4300000: Tarima
     4300002: Escalon
     4300004: Escalon2
@@ -1197,6 +1221,12 @@ ModelImporter:
     4300470: escalera5_001
     4300472: escalera6_001
     4300474: escalera7_001
+    4300476: Tarima_001
+    4300478: Escalon2_001
+    4300480: Cube
+    4300482: grada1_001
+    4300484: grada1d_002
+    4300486: grada1d_001
     7400000: Default Take
     9500000: //RootNode
   materials:

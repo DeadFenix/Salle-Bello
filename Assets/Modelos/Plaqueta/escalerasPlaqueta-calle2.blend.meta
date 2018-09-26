@@ -9,19 +9,44 @@ ModelImporter:
     100002: Cube_001
     100004: Cube_002
     100006: //RootNode
+    100008: escaleras
+    100010: pasamanos
+    100012: pasamanos_001
+    100014: pasamanos_002
+    100016: pasamanos_003
     400000: Cube
     400002: Cube_001
     400004: Cube_002
     400006: //RootNode
+    400008: escaleras
+    400010: pasamanos
+    400012: pasamanos_001
+    400014: pasamanos_002
+    400016: pasamanos_003
     2300000: Cube
     2300002: Cube_001
     2300004: Cube_002
+    2300006: escaleras
+    2300008: pasamanos
+    2300010: pasamanos_001
+    2300012: pasamanos_002
+    2300014: pasamanos_003
     3300000: Cube
     3300002: Cube_001
     3300004: Cube_002
+    3300006: escaleras
+    3300008: pasamanos
+    3300010: pasamanos_001
+    3300012: pasamanos_002
+    3300014: pasamanos_003
     4300000: Cube_002
     4300002: Cube
     4300004: Cube_001
+    4300006: pasamanos_003
+    4300008: pasamanos_002
+    4300010: pasamanos_001
+    4300012: pasamanos
+    4300014: escaleras
     7400000: Default Take
     9500000: //RootNode
   materials:

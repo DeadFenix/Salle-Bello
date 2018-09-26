@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{5FFFC98B-2810-2F3F-8BD3-393FAE006593}|Pruebas unitarias">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Materials/movimientoJugador.cs">
+    <Files>
+      <File FileName="Assets/Materials/movimientoJugador.cs" Line="14" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-firstpass PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

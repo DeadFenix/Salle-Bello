@@ -17,7 +17,7 @@ public class EnvConfig
         BuildTarget.Android, BuildTarget.iOS,
         BuildTarget.StandaloneLinux, BuildTarget.StandaloneLinux64, BuildTarget.StandaloneLinuxUniversal,
         BuildTarget.StandaloneWindows, BuildTarget.StandaloneWindows64,
-        BuildTarget.StandaloneOSXIntel, BuildTarget.StandaloneOSXIntel64, BuildTarget.StandaloneOSX
+        BuildTarget.StandaloneOSXIntel, BuildTarget.StandaloneOSXIntel64, BuildTarget.StandaloneOSXUniversal
     };
 
 #if !VRC_CLIENT
@@ -39,7 +39,7 @@ public class EnvConfig
         { BuildTarget.StandaloneWindows64, new UnityEngine.Rendering.GraphicsDeviceType[] { UnityEngine.Rendering.GraphicsDeviceType.Direct3D11 } },
         { BuildTarget.StandaloneOSXIntel, null },
         { BuildTarget.StandaloneOSXIntel64, null },
-        { BuildTarget.StandaloneOSX, null }
+        { BuildTarget.StandaloneOSXUniversal, null }
     };
 
     static string[] ensureTheseShadersAreAvailable = new string[]

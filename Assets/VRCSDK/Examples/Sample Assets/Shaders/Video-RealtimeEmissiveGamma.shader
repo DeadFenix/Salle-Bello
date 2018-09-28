@@ -1,6 +1,4 @@
-﻿// Upgrade NOTE: upgraded instancing buffer 'Props' to new syntax.
-
-Shader "Video/RealtimeEmissiveGamma" {
+﻿Shader "Video/RealtimeEmissiveGamma" {
   Properties {
     _MainTex ("Emissive (RGB)", 2D) = "white" {}
     _Emission ("Emission Scale", Float) = 1
@@ -29,9 +27,9 @@ Shader "Video/RealtimeEmissiveGamma" {
     // Add instancing support for this shader. You need to check 'Enable Instancing' on materials that use the shader.
     // See https://docs.unity3d.com/Manual/GPUInstancing.html for more information about instancing.
     // #pragma instancing_options assumeuniformscaling
-    UNITY_INSTANCING_BUFFER_START(Props)
+    UNITY_INSTANCING_CBUFFER_START(Props)
       // put more per-instance properties here
-      UNITY_INSTANCING_BUFFER_END(Props)
+      UNITY_INSTANCING_CBUFFER_END
 
       void surf (Input IN, inout SurfaceOutputStandard o) {
         // emissive comes from texture
